@@ -1,6 +1,6 @@
 public abstract class Transaction {
 
-    protected Integer accountNum;
+    protected static Integer accountNum;
     protected DataBase dataBase;
     protected String type;
     protected double amount;
