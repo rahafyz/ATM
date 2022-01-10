@@ -93,14 +93,5 @@ public class Account {
 
 
 
-//    public void Deposit(double d){
-//        balance =+ d;
-//    }
-//    public void WithDraw(double w){
-//        balance =- w;
-//    }
-//    public void ShowBalance(){
-//        System.out.println("Your Balance : "+balance);
-//    }
 
 }
